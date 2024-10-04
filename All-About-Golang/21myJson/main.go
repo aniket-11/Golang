@@ -42,3 +42,7 @@ func EncodeJson(){
 
 		fmt.Printf("%s\n",finalJson)
 }
+
+
+
+// Above code is having some bug ! Do not use it.
